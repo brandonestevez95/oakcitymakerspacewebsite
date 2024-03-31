@@ -1,4 +1,4 @@
-### Oak City Makerspace Website
+# Oak City Makerspace Website
 
 The Oak City Makerspace aims to revolutionize STEM education by offering immersive and hands-on learning experiences for children through mobile workshops featuring tinkering toys, circuits, Arduino, and Raspberry Pi. To support this innovative business model and reach a wider audience, I want to develop a dynamic and user-friendly website using Python and Flask.
 
